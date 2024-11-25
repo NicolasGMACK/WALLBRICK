@@ -13,6 +13,7 @@ class HomePage extends StatelessWidget {
               color: Colors.black, fontSize: 18, fontWeight: FontWeight.bold),
         ),
         backgroundColor: Colors.orange,
+        elevation: 0.0,
         centerTitle: true,
       ),
     );
